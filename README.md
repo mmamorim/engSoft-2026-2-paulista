@@ -15,4 +15,5 @@
     - Livro Engenharia de Software Moderna - Marco Tulio Valente [link](https://engsoftmoderna.info/)
 * [Aula02](./Aula02/) (19/08) 
     - Capítulo 2
-    - 
+    - [Scrum.org](https://www.scrum.org/)
+    - The Scrum Guide (Português) [2020-Scrum-Guide-PortugueseBR-3.0.pdf](2020-Scrum-Guide-PortugueseBR-3.0.pdf)
